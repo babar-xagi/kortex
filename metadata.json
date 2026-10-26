@@ -1,0 +1,8 @@
+{
+  "name": "Kortex — Pure Kotlin Coroutine Framework & Observability Studio",
+  "description": "High-performance pure Kotlin backend framework combining FastAPI coroutine ergonomics, Django ORM migrations, RBAC auto-admin, CLI scaffolding, and real-time DevOps anomaly alerting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

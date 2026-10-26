@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive implementation plan, roadmap, and phased execution blueprint for Kortex — a pure Kotlin coroutine web framework combining FastAPI's speed and schema ergonomics with Django's batteries-included ORM, migrations, authentication, auto-admin, CLI scaffolding, and a real-time DevOps observability and anomaly alerting studio.",
+  "updatedAt":  "2026-10-26T16:08:13.005926809Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
